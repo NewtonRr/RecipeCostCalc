@@ -10,6 +10,7 @@ This Python script lets you input ingredients one by one, assign their cost and 
 
 
 ⚠️ Notes
+
 Valid units: g (grams), u (unit), ml (milliliters)
 
 Make sure to enter numeric values for cost and quantity.
